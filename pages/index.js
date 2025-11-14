@@ -1,5 +1,7 @@
 function Home() {
-    return <h1>MEU AMOOR, EU TE AMOO MUITOOO!!!</h1>
+    return <h1>MEU AMOOR, EU TE AMOO MUITOOO!!! 
+        PRA SEMPRE!
+    </h1>
 }
 
 export default Home;
