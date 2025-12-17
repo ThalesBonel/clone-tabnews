@@ -1,17 +1,11 @@
 function Home() {
   return (
     <div>
-      <h1>Projeto FUTURO - AporteNow!!!!</h1>
+      <h1>Aqui estou aprendendo sobre DESENVOLVIMENTO !!!!</h1>
 
-      <p>
-        Aqui será feito um projeto de Rebalanceamento de Carteira de
-        Investimentos
-      </p>
+      <p>CURSO.DEV</p>
 
-      <p>
-        Onde as pessoas poderão confiar, a partir de sua notas para cada tipo de
-        ação, que sua carteira estará SEMPRE balanceada
-      </p>
+      <p>Aqui é o meu local de estudos do curso.dev</p>
     </div>
   );
 }
